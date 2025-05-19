@@ -1,0 +1,6 @@
+dlib
+numpy
+scipy
+scikit-learn
+opencv-python
+pandas

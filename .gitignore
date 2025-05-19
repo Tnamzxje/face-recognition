@@ -1,0 +1,6 @@
+"*.pkl" 
+"*.csv" 
+"models/*.dat" 
+"__pycache__/" 
+"training-images/" 
+"test-images/" 
